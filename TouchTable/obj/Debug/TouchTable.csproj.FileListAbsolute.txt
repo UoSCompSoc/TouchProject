@@ -1,0 +1,6 @@
+C:\Users\Kylw\Documents\Visual Studio 2015\Projects\TouchProject\TouchTable\bin\Debug\TouchTable.dll
+C:\Users\Kylw\Documents\Visual Studio 2015\Projects\TouchProject\TouchTable\bin\Debug\TouchTable.pdb
+C:\Users\Kylw\Documents\Visual Studio 2015\Projects\TouchProject\TouchTable\bin\Debug\PQMultiTouch.dll
+C:\Users\Kylw\Documents\Visual Studio 2015\Projects\TouchProject\TouchTable\obj\Debug\TouchTable.csprojResolveAssemblyReference.cache
+C:\Users\Kylw\Documents\Visual Studio 2015\Projects\TouchProject\TouchTable\obj\Debug\TouchTable.dll
+C:\Users\Kylw\Documents\Visual Studio 2015\Projects\TouchProject\TouchTable\obj\Debug\TouchTable.pdb

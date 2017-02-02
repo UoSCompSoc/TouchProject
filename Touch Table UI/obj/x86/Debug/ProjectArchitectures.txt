@@ -1,1 +1,1 @@
-c:\users\hps19\documents\visual studio 2015\Projects\Touch Table\Touch Table UI\Touch Table UI.csproj;x86
+C:\Users\Kylw\Documents\Visual Studio 2015\Projects\TouchProject\Touch Table UI\Touch Table UI.csproj;x86
